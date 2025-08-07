@@ -68,9 +68,6 @@ University of Northern Colorado
   <a href="https://linkedin.com/in/david-crystal" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin" />
   </a>
-  <a href="https://github.com/david-star-0210" target="_blank">
-    <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github" />
-  </a>
 </p>
 
 ---
