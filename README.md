@@ -1,12 +1,6 @@
 <h1 align="center">Hi there, I'm David Crystal 👋</h1>
 <h3 align="center">Senior Full-Stack Engineer </h3>
 
-<p align="center">
-  <a href="https://github.com/david-star-0210">
-    <img src="https://komarev.com/ghpvc/?username=david-star-0210&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-  </a>
-</p>
-
 ---
 
 ## 🧑‍💻 About Me
@@ -45,16 +39,6 @@ I'm a **Senior Full-Stack Engineer** with over **8 years of experience** designi
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![Redis](https://img.shields.io/badge/-Redis-black?style=flat-square&logo=redis)
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=david-star-0210&show_icons=true&theme=tokyonight" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=david-star-0210&theme=tokyonight" />
-</p>
 
 ---
 
