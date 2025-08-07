@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm David Crystal 👋</h1>
-<h3 align="center">Senior Full-Stack Engineer | Architecting Scalable SaaS Platforms</h3>
+<h3 align="center">Senior Full-Stack Engineer </h3>
 
 <p align="center">
   <a href="https://github.com/david-star-0210">
